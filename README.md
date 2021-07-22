@@ -51,7 +51,7 @@ This test contain with __2 part.__
   
 # Operation
 
-If you implement the first complete, this is your operations part. Here is requirement we want.
+If you implement the programming part complete, this is your operation part. Here is requirement we want.
 
   **Requirement**
 
