@@ -2,7 +2,7 @@
 
 Thank you for interest in ChomCHOB
 
-We have 2 part for testing your DevOps skill, coding and operation part. When you done this test you need to create repository like in "example submission" folder on your github repository.
+We have 2 part for testing your DevOps skill, programming and operation part. When you done this test you need to create repository like in "[example submission](example%20submission)" folder on your github repository.
 
 This test contain with __2 part.__
 
